@@ -30,3 +30,7 @@
 
 `git pull origin master --allow-unrelated-histories  ` 
 // :Q退出
+// 把远程仓库和本地同步，消除差异
+
+`git remote rm origin`
+删除远程分支
