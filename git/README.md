@@ -17,7 +17,7 @@
 - 推到远程仓库
 
 `git pull origin master`
-//拉到本机
+- 拉到本机
 
 `git clone 地址链接 `
 - 克隆到本地
@@ -33,4 +33,4 @@
 - 把远程仓库和本地同步，消除差异
 
 `git remote rm origin`
--删除远程分支
+- 删除远程分支
